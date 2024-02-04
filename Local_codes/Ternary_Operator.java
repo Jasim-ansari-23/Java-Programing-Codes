@@ -1,6 +1,6 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class Main {
+public class Ternary_Operator {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int num;
