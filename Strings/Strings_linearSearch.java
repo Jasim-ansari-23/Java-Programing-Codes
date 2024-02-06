@@ -1,6 +1,7 @@
+package Strings;
 import java.util.Scanner;
 
-public class Main {
+public class Strings_linearSearch {
     public static void searchPupil(String students[], String student){
         boolean found = false;
         for(int i = 0; i<students.length; i++){
