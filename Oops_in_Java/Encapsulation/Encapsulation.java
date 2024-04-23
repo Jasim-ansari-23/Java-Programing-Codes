@@ -1,4 +1,4 @@
-package Oops_in_Java;
+package Oops_in_Java.Encapsulation;
 
 public class Encapsulation {
     public static void main(String[] args){
@@ -32,7 +32,7 @@ public class Encapsulation {
 
 // Another example
 
-// public class Main {
+// public class Another {
 
 //     public static void main(String[] args){
 //         Area rectangle = new Area(2, 16);

@@ -1,5 +1,4 @@
 package Array_Codes;
-
 import java.util.Scanner;
 
 public class Arrayo {

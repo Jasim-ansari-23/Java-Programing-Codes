@@ -63,5 +63,12 @@ public class Initialization_String {
             System.out.print(bar[i]+" ");
         }
         sc.close();
+
+        //To Remove same element inside the string 
+        String name5 = "My name is - Jasim";
+        String word[] = name5.split("-");
+        for(String wrd : word){
+            System.out.print(wrd);
+        }
     }
 }

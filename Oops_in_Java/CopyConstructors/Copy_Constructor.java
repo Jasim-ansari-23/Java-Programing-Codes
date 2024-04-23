@@ -17,23 +17,23 @@ public class Copy_Constructor {
             ms2.qual = "PHD In Compueter Science";
             System.out.print("Name: "+ ms2.name + "\nID: "+ ms2.id + "\nQualification: "+ ms2.qual + "\n");
         }
+    }
+}
+
+class student{
+    String name;
+    int id;
+    String qual;
+
+    student(String newname, int newid, String newqual){
+        this.name = newname;
+        this.id = newid;
+        this.qual = newqual;
+    }
     
-        static class student{
-            String name;
-            int id;
-            String qual;
-    
-            student(String newname, int newid, String newqual){
-                this.name = newname;
-                this.id = newid;
-                this.qual = newqual;
-            }
-            
-            student(student obj){
-                this.name = obj.name;
-                this.id = obj.id;
-                this.qual = obj.qual;
-            }
-        }
+    student(student obj){
+        this.name = obj.name;
+        this.id = obj.id;
+        this.qual = obj.qual;
     }
 }

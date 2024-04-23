@@ -4,22 +4,22 @@ import java.util.Arrays;
 public class Shallow_Copy {
     public static void main(String[] args) {
         int value[] = {3,7,8,9};
-        Ex e = new Ex(value);
+        Ex2 e = new Ex2(value);
         e.showData();
         value[0] = 78;
         e.showData();
     }
+}
 
-    static class Ex {
-        private int[] data;
+class Ex2 {
+    private int[] data;
 
-        public Ex(int[] value){
-            data = value;
-        }
+    Ex2(int[] value){
+        data = value;
+    }
 
-        public void showData(){
-            System.out.println(Arrays.toString(data));
-        }
+    void showData(){
+        System.out.println(Arrays.toString(data));
     }
 }
 

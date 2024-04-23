@@ -1,4 +1,4 @@
-package Oops_in_Java;
+package Oops_in_Java.Inheritance;
 
 public class Inheritance {
     public static void main(String[] args) {
@@ -148,5 +148,5 @@ public class Inheritance {
 //     }
 // }
 
-// What does means of inheritance?
+// What does means by the inheritance?
 // Ans - Inheritance in simple language is a concept in programming that allows a new class (called the "subclass" or "child class") to inherit properties and behaviors from an existing class using (extends) utility function and it's (called the "superclass" or "parent class"). It's like a child inheriting traits from their parents.
