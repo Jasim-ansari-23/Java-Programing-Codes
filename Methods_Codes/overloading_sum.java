@@ -1,4 +1,4 @@
-package Methodes_Codes;
+package Methods_Codes;
 
 import java.util.Scanner;
 public class overloading_sum {
