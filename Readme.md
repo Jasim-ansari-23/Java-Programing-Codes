@@ -1,6 +1,6 @@
 ## Author Information
 
-Hii this is [Jasim Ansari](https://www.linkedin.com/in/jasim-ansari23/), I'm a Java developr who is pursuing BCA from Manipal University.
+Hii this is [Jasim Ansari](https://www.linkedin.com/in/jasim-ansari23/), I'm a Java developer who is pursuing BCA from Manipal University.
 
 ## What does this repository contain?
 
