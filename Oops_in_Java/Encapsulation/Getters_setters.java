@@ -1,5 +1,4 @@
 package Oops_in_Java.Encapsulation;
-
 import java.util.*;
 
 public class Getters_setters {
